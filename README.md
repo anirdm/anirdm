@@ -6,6 +6,7 @@ I'm currently a student at Technical University of Sofia, pursuing a degree in I
 ### 📚 Courses
 - **Software University** (February 2023 - March 2023) - Programming Basics with JavaScript (6.00/6.00 GPA)
 - **Software University** (September 2023 - December 2023) - Programming Fundamentals with JavaScript (6.00/6.00 GPA)
+- **Software University** (January 2024 - Ongoing) - Programming Fundamentals with JavaScript (6.00/6.00 GPA)
 
 ### Hobbies and interests
 📌 I love browsing Pinterest for design inspiration.
